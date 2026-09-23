@@ -326,8 +326,8 @@
     },
     {
       "path": "licenses/showdown/PROVENANCE.txt",
-      "bytes": 392,
-      "sha256": "1365a70cb1a8b1a8751625358097e162f9ad349ab3b21dec5e87aaec4ca632a1"
+      "bytes": 348,
+      "sha256": "e8e0a5f316fec2a78c9e407e4dfd538fa1e55446b7197d2591278355a4ff9ebb"
     },
     {
       "path": "licenses/showdown/README.md",
@@ -27193,9 +27193,9 @@
       "url": "https://cdn.jsdelivr.net/gh/Frank0200/pkman-jsDelivr@60f9b6435c985becf5865c7e15f205aa2989374d/mvu_zod.js",
       "path": "vendor/pkman/mvu_zod.js",
       "version": null,
-      "sha256": "82b7104ec9d6fe23f7b3c6083bf6aebd6610b4bf4fed4443b75dd2b48bdb0a05",
+      "sha256": "178f73eb55ae73b7a2b2bc940bba20aa67e94c649484d794fb2e783d2e759b1f",
       "upstreamSha256": "b704f733706688d7fce426bc21b9f17ae90853378157fa71302bd1da8d717eb8",
-      "bytes": 4670,
+      "bytes": 4717,
       "imports": [
         "vendor/npm/compare-versions/6.1.1/eea8382b3575.js",
         "vendor/npm/json5/2.2.3/3002753f7831.js",
@@ -27203,6 +27203,11 @@
         "vendor/npm/zod/4.6.5/b2e289a3436e.js",
         "vendor/npm/klona/2.0.6/4418dca93e0b.js"
       ]
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
     }
   ]
 }
