@@ -11,3 +11,7 @@ See `manifest.json` for every original URL/version and SHA-256. Licenses and ori
 ## Local changes
 
 Relative ESM/CSS imports; host Vue bridge for Pinia; Japanese MVU button events; JSON5 parsing without code evaluation; protected variable paths and failed-move handling; escaped notification messages; immutable sprite catalog and owned unknown-image fallback. `runtime/assets.js` and `runtime/unknown.svg` are released under CC0-1.0. All upstream files retain their original licenses.
+
+## Identity mapping release v2026.9.24.1
+
+`registry/` adds the shared Japanese identity/form/sprite catalog and 129 verified static fallback images. See `registry/README.md`. Existing archived runtime files are unchanged.
