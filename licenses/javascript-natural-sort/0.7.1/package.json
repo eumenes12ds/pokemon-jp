@@ -1,0 +1,20 @@
+{
+  "name": "javascript-natural-sort",
+  "version": "0.7.1",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Bill4Time/javascript-natural-sort.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "f9e2303d4507f6d74355a73664d1440fb5a0ef59",
+    "tarball": "https://registry.npmjs.org/javascript-natural-sort/-/javascript-natural-sort-0.7.1.tgz",
+    "integrity": "sha512-nO6jcEfZWQXDhOiBtG2KvKyEptz7RVbpGP4vTD2hLBdmNQSsCiicO2Ioinv6UI4y9ukqnBpy+XZ9H6uLNgJTlw==",
+    "signatures": [
+      {
+        "sig": "MEQCIEG6mYkDnfifpYrFH4pzYEx2enpK6+GYB0NbnTls+khiAiBoes3FlMuVXpacN24yKjkuZ4EA4KDxrl5FpOJV7vYhvg==",
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+      }
+    ]
+  }
+}

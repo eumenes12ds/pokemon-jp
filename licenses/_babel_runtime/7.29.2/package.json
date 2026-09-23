@@ -1,0 +1,23 @@
+{
+  "name": "@babel/runtime",
+  "version": "7.29.2",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/babel/babel.git",
+    "type": "git",
+    "directory": "packages/babel-runtime"
+  },
+  "dist": {
+    "shasum": "9a6e2d05f4b6692e1801cd4fb176ad823930ed5e",
+    "tarball": "https://registry.npmjs.org/@babel/runtime/-/runtime-7.29.2.tgz",
+    "fileCount": 249,
+    "integrity": "sha512-JiDShH45zKHWyGe4ZNVRrCjBz8Nh9TMmZG1kh4QTK8hCBTWBi8Da+i7s1fJw7/lYpM4ccepSNfqzZ/QvABBi5g==",
+    "signatures": [
+      {
+        "sig": "MEUCIQCsNO93EJH5lZedGz8EH6/NwB2DHcyAT3HXZG5Q4BtOFgIgPwPMeCX3jKC+UWowXMZnLP4WHDi42gzHJHJqbktOqgk=",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "unpackedSize": 247667
+  }
+}

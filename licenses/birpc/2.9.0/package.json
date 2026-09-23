@@ -1,0 +1,28 @@
+{
+  "name": "birpc",
+  "version": "2.9.0",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/antfu-collective/birpc.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "b59550897e4cd96a223e2a6c1475b572236ed145",
+    "tarball": "https://registry.npmjs.org/birpc/-/birpc-2.9.0.tgz",
+    "fileCount": 8,
+    "integrity": "sha512-KrayHS5pBi69Xi9JmvoqrIgYGDkD6mcSe/i6YKi3w5kekCLzrX4+nawcXqrj2tIp50Kw/mT/s3p+GVK0A0sKxw==",
+    "signatures": [
+      {
+        "sig": "MEYCIQCYV0+8/wCfjLmqYuy1nYmsUL6m72Al0NKuPtwIxEFFUwIhANLjIqW6Ub2ic/swh7UkFrQnmE/IP+ez/xrKmFdVm8yn",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "attestations": {
+      "url": "https://registry.npmjs.org/-/npm/v1/attestations/birpc@2.9.0",
+      "provenance": {
+        "predicateType": "https://slsa.dev/provenance/v1"
+      }
+    },
+    "unpackedSize": 49655
+  }
+}

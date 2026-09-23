@@ -1,0 +1,32 @@
+{
+  "name": "pinia",
+  "version": "4.0.3",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/vuejs/pinia.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "9cf9e353b3602e24a96e4ca4425817ecb9993292",
+    "tarball": "https://registry.npmjs.org/pinia/-/pinia-4.0.3.tgz",
+    "fileCount": 9,
+    "integrity": "sha512-XMQqpvjgG7LMqVhhFUzKLT4KEbsYbfZZ0CZU9PgdFm1O2VKBmIkykL8+SfNhOaT7sR0wT6BEgKT0YNDYWgmVRA==",
+    "signatures": [
+      {
+        "sig": "MEUCIBwk6lqCNtPV7+XwdYYFRxwfx1kyfFZVFvsbw46xANPEAiEAkbHD2Tw5mSNSNP+pLhgvXq+OLPU3RXABXinKJbZKwJI=",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      },
+      {
+        "sig": "MEYCIQCdeMRc0WIQBX/Q4DjiY2t7f5r/VOGC2lT4MXHOaPmJxQIhAMDMqhjtSJuYHuw74u0SEH2kgXE/FntVhQ2VVjyP0uej",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "attestations": {
+      "url": "https://registry.npmjs.org/-/npm/v1/attestations/pinia@4.0.3",
+      "provenance": {
+        "predicateType": "https://slsa.dev/provenance/v1"
+      }
+    },
+    "unpackedSize": 187944
+  }
+}

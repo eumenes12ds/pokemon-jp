@@ -1,0 +1,23 @@
+{
+  "name": "tiny-emitter",
+  "version": "2.1.0",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/scottcorgan/tiny-emitter.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "1d1a56edfc51c43e863cbb5382a72330e3555423",
+    "tarball": "https://registry.npmjs.org/tiny-emitter/-/tiny-emitter-2.1.0.tgz",
+    "fileCount": 10,
+    "integrity": "sha512-NB6Dk1A9xgQPMoGqC5CVXn123gWyte215ONT5Pp5a0yt4nlEoO1ZWeCwpncaekPHXO60i47ihFnZPiRPjRMq4Q==",
+    "signatures": [
+      {
+        "sig": "MEUCIFeFiZe9WgMexP55TmHk5aNnjsk8i9O4A0kgWYtxKBBPAiEA6ObBjEvejj66rj5AyE4aHLgc+KSpfUsxBlSZWw+/PWw=",
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+      }
+    ],
+    "unpackedSize": 77178,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcWa6FCRA9TVsSAnZWagAAg5UP/1hFRSNs+J7T0dZ+okZl\nRqw0p0QT8MCOHTkPS6FaLevkPMcXKMuG+ZIlshfHmfKN0ablFgCMrIq4LrJa\nocZhOS5iBqHA9v5+qh74xnxyLrUgZN3INS0LJ5lMsSR+/04ivjNpcQgWZMn1\n7v4SpjCFAQtZH36zFQvrJzN40j+XsUvIItrYYe614gnmVOrtlh5r27VmlgQM\ndPhNgY6JIXCB8tg5jGn0VR63vJ5Q1TeNAdrswnnjueGLcrqDWOhVE6EVQauC\nM31R6oXA7miA4qIWSBAOXV7l7ZaC/DKCcJEgCuQOkQMq2aNH8JVHwePMAIP6\nwNipSC/NoiT0zTk2fX22e3knodJHH5JWJZIsRU0UZSChQ63nGtr+rgGhXAzd\nKitF2v0QFj6fHDhbuOsHQ5Lj7/6s9AKQKYyqPUDooVpFObXpqA0Ctcw1D7BA\nVc5tHJ3j/HLsg2ZdlaSUd2y0p5rez/4YTkDaA38SRMJcw9JltP2fVAypo6ck\n3xHu81lxQtE9FO61ZzgIACN5rPBmiVI6T26up0aWCLeicTzR/G21fsD1TJN9\nl7OPohk1z3DEaXTudpU09ZzUPcXZL2Ay9DG7Qy5u2mBL0gWJC8VMDmVgj9B9\nXef69mwVL1Ogz8ykkSpPJIl9wQ2O+Ww408/4lS7amCNqqVAhsv5OpbmLb+cF\nRCSK\r\n=SsCo\r\n-----END PGP SIGNATURE-----\r\n"
+  }
+}

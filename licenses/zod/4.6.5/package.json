@@ -1,0 +1,32 @@
+{
+  "name": "zod",
+  "version": "4.6.5",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/colinhacks/zod.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "e3af3edbdc260239c52f73caad05dbbffe6e82cd",
+    "tarball": "https://registry.npmjs.org/zod/-/zod-4.6.5.tgz",
+    "fileCount": 840,
+    "integrity": "sha512-v5l/aFXZQeai4awLbOpSoHecE9UiMrnfx75tEXLjNonXVARxQ5mOeipTjROUchszUNCqnE+hqAMujRsRHsut2Q==",
+    "signatures": [
+      {
+        "sig": "MEUCIDtkjZOq6lmdtsdqBESzHORjYxE3jnbtCMlc6fp5KcXBAiEAx7qf7EGotCL3tQfTVb+gukRlzOmeGDbJR+8DrkwN+Vs=",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      },
+      {
+        "sig": "MEQCIBNNqEXGwMQtbIAF5A2Z8IDOhQQVSkHwQAkmsgywNJSCAiAfbEx/zArqNnn/f4OQedpGwu17tlhIWsBJ1+yBFjssqQ==",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "attestations": {
+      "url": "https://registry.npmjs.org/-/npm/v1/attestations/zod@4.6.5",
+      "provenance": {
+        "predicateType": "https://slsa.dev/provenance/v1"
+      }
+    },
+    "unpackedSize": 6140311
+  }
+}

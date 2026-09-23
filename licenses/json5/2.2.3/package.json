@@ -1,0 +1,23 @@
+{
+  "name": "json5",
+  "version": "2.2.3",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/json5/json5.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "78cd6f1a19bdc12b73db5ad0c61efd66c1e29283",
+    "tarball": "https://registry.npmjs.org/json5/-/json5-2.2.3.tgz",
+    "fileCount": 20,
+    "integrity": "sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==",
+    "signatures": [
+      {
+        "sig": "MEQCIGYgWBvGgtEDWvyYrn00kJYCK8D0UCZEVYyCOYToyoUTAiBsZaKBJLypUDXZCZaRq3f0hbUDquj5NBmJX95feSPTPg==",
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+      }
+    ],
+    "unpackedSize": 235198,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjsG1EACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpSEBAAl31BrAqhv7nx0GI6xZTmLpos6GmugbTl6ZTHWVih3SSYkkMs\r\nER4OCchqVYheF54SB6xG2FzptxWIthW3/i0+7/1nkm/Pj0bzVQ9dMIB4cS7O\r\nuHORhg7eHuxoSuaMamKZ5nYEKf38mOsB0B5rQUrafiLeK/MH0MHD2+u9SYCF\r\nAsiYxf14OtZsvQVGVYwLdFv2IjxidZCRnMtB6WF81fmCbmlgbO0hmv9Y7xCd\r\naysaZ+M+RE5fDVUdz2qj62oO2hYiODcng5Z+doMqVHOCb/rjaE0LFdK8OyNt\r\nRH8WKR2TMsAOorcQgbvj5df7JvFetdSTV9N/bGmsHf+u1um8OOGu2gCncgBl\r\nnL40jYyw1+Cjor8BpTLsvoZjPU0zuThgwJBmFx6MSkrWJtjXi4Ajzx2lwVXQ\r\nE8Ph1DL//D/TeYibBGKPJtGr2poOtUBEl1QvlHxpNatWRUjokLlyyUaVkZHG\r\nxZJTJoFFe5FN/yHZpV6/9R4o56kktUZiPh/xkfm6g/Nwu8J6pNLypClMRUt+\r\n9DoHy6gJchbXZ/f9rNmRKwX09Decf5rLxRBteWCuKc03GJzFLCs2AYcROuKk\r\nWe4jw0dYqAmRz1Z/ddDBHZFJR8Mca/TV6WjtRxH2KtidxXvbqgJ0euIhtxx4\r\nVOhM334ovfcgbtP97EjdwxO36Utk9DWT/pE=\r\n=PrQ7\r\n-----END PGP SIGNATURE-----\r\n"
+  }
+}

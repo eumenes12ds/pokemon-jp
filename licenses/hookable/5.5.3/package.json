@@ -1,0 +1,23 @@
+{
+  "name": "hookable",
+  "version": "5.5.3",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/unjs/hookable.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "6cfc358984a1ef991e2518cb9ed4a778bbd3215d",
+    "tarball": "https://registry.npmjs.org/hookable/-/hookable-5.5.3.tgz",
+    "fileCount": 7,
+    "integrity": "sha512-Yc+BQe8SvoXH1643Qez1zqLRmbA5rCL+sSmk6TVos0LWVfNIB7PGncdlId77WzLGSIB5KaWgTaNTs2lNVEI6VQ==",
+    "signatures": [
+      {
+        "sig": "MEQCIHd5y+QRjTiHmsodgWlcWpKQGAoEhC0i2vDVGYQk9jOzAiBlqrrXPwL8hhGdrNrBINg7RLS13ZhBaVHmz70NEuz/Eg==",
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+      }
+    ],
+    "unpackedSize": 39944,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJkJY+7ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoU/A//fRTjFBcyMmogztiIdSARAd9PkgBDeEiPIr8YLv5KJROiENNR\r\nU9ErlF/hACSgIBLc8JpyIg904jr8hLI2qfIafbzuXJ6I+rqEpvPvu16FuqL2\r\n8/Aa/b6psJyeNeJ0zHpnCy7CH90rclrNg7/p55AKiWpn7MrMhv8uELBjYYJg\r\nLJgv6xXYYImOFUInu8opAr/y1LmPPibUP8rChU6Kw5PBn9kVN/ug2g3vCbyj\r\ncZOy4RyKQqRa+m+b2BbrncPE6sQ3PoQSzTD1v5c/f4PQqNt18MeDPrAQVDnh\r\nXCCwDLCxes0O1GaOZN9438ULUbaVMZqrlpHLmuHCnpbO15MHg0gXWQdvf2+5\r\ni6CNMyGPyS05iT4uICDJUGuvOLZDOrnVds0vEA36Mt6cAi9OjhryjIQt7JHT\r\n1rgz8EZLa7uu3EqZYmB1zlLkWcAvzpEk/qqzJgdTQoRrMSF1bf4oXesH81rI\r\nfQAStU77ACuAjulKCuTa/LTeUkY9gIIJ/PVpq/S+I2doyc0GHoA/tgok6kHB\r\norSFZ6mXf3jvnc0D7iKEyzy+8SNrwND4MPJ0oUAyNfYbGUnLi+bZZn98BJqs\r\nMlOAIlPjTNEg7yT3XpvnR9zkkKnToz7tioXYVY70yJAi/Q1E3n+HAIYe1sCB\r\nvcePTe1buVWejskJ8/srKWYdM0LmOdcco7U=\r\n=0huR\r\n-----END PGP SIGNATURE-----\r\n"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "perfect-debounce",
+  "version": "2.1.0",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/unjs/perfect-debounce.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "e7078e38f231cb191855c3136a4423aef725d261",
+    "tarball": "https://registry.npmjs.org/perfect-debounce/-/perfect-debounce-2.1.0.tgz",
+    "fileCount": 5,
+    "integrity": "sha512-LjgdTytVFXeUgtHZr9WYViYSM/g8MkcTPYDlPa3cDqMirHjKiSZPYd6DoL7pK8AJQr+uWkQvCjHNdiMqsrJs+g==",
+    "signatures": [
+      {
+        "sig": "MEYCIQCyNOpDI/ZfV3pTi/bilbL/1P62TRDCUXNWTTnOO8nz6QIhAP01XpXNEC1tC90PptYlrq6FMl8THXmeLUbp/Xalv6nD",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "unpackedSize": 9566
+  }
+}

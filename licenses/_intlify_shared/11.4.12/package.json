@@ -1,0 +1,33 @@
+{
+  "name": "@intlify/shared",
+  "version": "11.4.12",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/intlify/vue-i18n.git",
+    "type": "git",
+    "directory": "packages/shared"
+  },
+  "dist": {
+    "shasum": "3df4c8d6e20ec11d5cdf14c9a8c63eb935005d7d",
+    "tarball": "https://registry.npmjs.org/@intlify/shared/-/shared-11.4.12.tgz",
+    "fileCount": 13,
+    "integrity": "sha512-ojfehaXMFrGFcSnK3cJPaMxlrSXT8FwZUG9H4i+WKX4OFD4Yl1WKdTmfwoC0REnwIfTrnt1QhRtd8kwi/te6bQ==",
+    "signatures": [
+      {
+        "sig": "MEUCIQDmeE1sgDRov8k1E//Rw1M/nPdYvD4QUcnbCDOlj5HqAgIgSCYl2DjbqpMOiaG/MfdCNDhXOENmWl57v9GgZidkHxQ=",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      },
+      {
+        "sig": "MEUCIEDbYJjK5Dc+0AtH4v/lrxWN/BU3hOKNagX5AM+f3+yuAiEA5TB5fnyLh6mHNLX5qP6ymyvKQ/6glRI269NixlTTG98=",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "attestations": {
+      "url": "https://registry.npmjs.org/-/npm/v1/attestations/@intlify%2fshared@11.4.12",
+      "provenance": {
+        "predicateType": "https://slsa.dev/provenance/v1"
+      }
+    },
+    "unpackedSize": 70865
+  }
+}

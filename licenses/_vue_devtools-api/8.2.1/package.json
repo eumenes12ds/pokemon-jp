@@ -1,0 +1,33 @@
+{
+  "name": "@vue/devtools-api",
+  "version": "8.2.1",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/vuejs/devtools.git",
+    "type": "git",
+    "directory": "packages/devtools-api"
+  },
+  "dist": {
+    "shasum": "9d95de2b908aa80b9957d737ddca51790e70c3b5",
+    "tarball": "https://registry.npmjs.org/@vue/devtools-api/-/devtools-api-8.2.1.tgz",
+    "fileCount": 13,
+    "integrity": "sha512-6u4vXBlIBAC1wMplIZgpyPn7uh/s4Bf6F5bMzvLv+EdJ0aHs/+4B7Ygv864EStQSjRbsRzTko/kUG1A1IejQ3A==",
+    "signatures": [
+      {
+        "sig": "MEUCIQDpakx7vO2cweDizS0OOVjF8h4X6lLkvY11+FW+Y0AAuwIgGO2Dc+tqX/u8nlg6/oH5qTc7iy8T/4S7baP2r+MhJKU=",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      },
+      {
+        "sig": "MEYCIQCNtoNBAkThI3D0H9ZGJAxp44buAzQgr9RQ2NVX0j1zqQIhAIyWrqS5kcHX/kyMlYxjNX6i4DvZpoG6sEWSFCr74l8O",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "attestations": {
+      "url": "https://registry.npmjs.org/-/npm/v1/attestations/@vue%2fdevtools-api@8.2.1",
+      "provenance": {
+        "predicateType": "https://slsa.dev/provenance/v1"
+      }
+    },
+    "unpackedSize": 133678
+  }
+}

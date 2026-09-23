@@ -1,0 +1,23 @@
+{
+  "name": "klona",
+  "version": "2.0.6",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/lukeed/klona.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "85bffbf819c03b2f53270412420a4555ef882e22",
+    "tarball": "https://registry.npmjs.org/klona/-/klona-2.0.6.tgz",
+    "fileCount": 19,
+    "integrity": "sha512-dhG34DXATL5hSxJbIexCft8FChFXtmskoZYnoPWjXQuebWYCNkVeV3KkGegCK9CP1oswI/vQibS2GY7Em/sJJA==",
+    "signatures": [
+      {
+        "sig": "MEUCIQCxfkT+kKLRjfmyAAyfdSW1e1yuEoyzV2XAsfrVWjevrwIgaeblMTDgN/7gV5hpno/fPW5nUSoOjHsLro/0H/K8ETo=",
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+      }
+    ],
+    "unpackedSize": 23173,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjxaN9ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmoa8Q//e3s1aO40akOImbwLgWiVTJVciGpUAYyAv/Fa1T1qkoxxAx8M\r\naF0yI1lO0njktX5rNuLLcyB3LS8Pz8WNyQIe64D4z+zosil9tUiDQ19JzKj7\r\nRozdg1EFBCHxT8/T1zNNmwTR8gd/WrZuJR1JMYQJzRA9D3eXhc1f5daOvkph\r\n6mZpoliIgNQNPAjFgICrc7gnXmnBR6Dk7k+UKBJbAzP1Qj0ocTLd9I7O0K1q\r\nq+Tj5Q0qGV6KV+vWuRTHQy4MtGT7be2y08yAukmFPEwwXHIDHDNAMJfd8bCa\r\nIMXcrvlluIuAi7BPMGOyQ9tCVTzBfZKS7iqgioVtSdCrfRPH58DyzYoOOM9A\r\nyIQy1Xqu1LBPoOyl6Fy5+wowVrIcDtwRso6EVhGT55eZmWmM2tp1jcWemW+1\r\nxAHDxgw8G2p6wHAsrMv2ZxIj/FT7hxx934xAnC0Drp0xdwrPKaDcLTXdprDg\r\nPuTe9Y1YB8i5yo3DUR73Gi1wAh9u1+8poKESeKjnr8c9enePQq4Gzyu3EAh5\r\nq5Alw2DwWNalnk31ozHTi1XjQKICE29zlH8CAqDSk7/UV+Hw7AGcIfS+KCmZ\r\nC3CO7CrrdztBA4ULczOBuS2oo/4GHBb7VQrICHI6lG7f9sjAW4e9DvTwqhcC\r\nEcAVyp71ngrYZVszKuqJjGjkTeJzu6tG4zI=\r\n=T5CO\r\n-----END PGP SIGNATURE-----\r\n"
+  }
+}

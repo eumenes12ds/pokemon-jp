@@ -1,0 +1,22 @@
+{
+  "name": "compare-versions",
+  "version": "6.1.1",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/omichelsen/compare-versions.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "7af3cc1099ba37d244b3145a9af5201b629148a9",
+    "tarball": "https://registry.npmjs.org/compare-versions/-/compare-versions-6.1.1.tgz",
+    "fileCount": 29,
+    "integrity": "sha512-4hm4VPpIecmlg59CHXnRDnqGplJFrbLG4aFEl5vl6cK1u76ws3LLvX7ikFnTDl5vo39sjWD6AaDPYodJp/NNHg==",
+    "signatures": [
+      {
+        "sig": "MEYCIQCs6FsnyPZMzKDxF0Y6uf49JEc1PhLiWXEzdbyBQxh2ywIhAPw5E40qrtMhILhAK5P6FuzoRd6DDHlZK65gwgDeCHzP",
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+      }
+    ],
+    "unpackedSize": 55514
+  }
+}

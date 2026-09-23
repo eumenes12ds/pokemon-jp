@@ -1,0 +1,23 @@
+{
+  "name": "escape-latex",
+  "version": "1.2.0",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/dangmai/escape-latex.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "07c03818cf7dac250cce517f4fda1b001ef2bca1",
+    "tarball": "https://registry.npmjs.org/escape-latex/-/escape-latex-1.2.0.tgz",
+    "fileCount": 4,
+    "integrity": "sha512-nV5aVWW1K0wEiUIEdZ4erkGGH8mDxGyxSeqPzRNtWP7ataw+/olFObw7hujFWlVjNsaDFw5VZ5NzVSIqRgfTiw==",
+    "signatures": [
+      {
+        "sig": "MEQCIDgKbIHj4ttkL3RBIlzACIZWbLj5CFF5hjzFt6yv1CHAAiAfccB+KiRFsozEQJCy3WNnwTgVeIvEWhxd6t9wFxhihw==",
+        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+      }
+    ],
+    "unpackedSize": 7474,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb1LZ+CRA9TVsSAnZWagAAjMAP/jBPKHZ2+Uyl+l9aG3Xv\nreN3ZH5FZNa7FwQyICTvQ+OAKQUNE4nVt7A2/VrFGYi/K2ja2Ix1U+SgoDzt\naepZxIfyWbB7MCOmMr35Ldmomq/vtCjYQyhpMZDi3Iz/tE4ZRgoHVIwoRrQJ\nTCSoSOU4WvKeOho95vcgBKEbfRKGuYc3oTfTxLSheR9oaItPMTiuME0D+Ast\nnsp6YHm8R3XynYTrXwLyPcSPpUat/xOwz26PmUIeVjh2FkuG+I7vpwJiQa49\n+MKjF5jt6mJpBEWuJzmMaCHE3sW8NHNVkfeysj7qgD/cKqG/hWrG3QtL02tN\n8scPiMWZNVXO5JVU8mad4UUCdBLFqUE0MrXLzJSKJbdO38In1bascjymLKsW\nhJr7aNIhC5OmtjGbvVIIdZu9mqGoIDUC9tOAxyE0XvEPM35x9A4mF1+MdbhR\nHsfMiniVLujMZrRvvfuAlVxhSsaQIHbxXxoEwC1iBo8bGJUIxlq438Ao2fZL\nOe12gloFKGMNmy9horQyP9u2pMQrtjvhKE30ZRKM6DJIhhEqxCA8kIVeSdbP\n7k7ZHKBmc+p2/RCCigdqyEMPVKQo98SdqYKyk/e0Ml8Qxe8Mdl4GiVSK2ukU\nt2za4aBz6ySQaMC3SYIQdCDqhNR6/53UaUdG+sb5BKpskDfTiZVgO2xzi5rW\nbcbX\r\n=xTyh\r\n-----END PGP SIGNATURE-----\r\n"
+  }
+}

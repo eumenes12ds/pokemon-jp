@@ -1,0 +1,28 @@
+{
+  "name": "nostics",
+  "version": "1.2.0",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/vercel-labs/nostics.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "1362df6de2ca8456b521914501abf6c52c4d7fb5",
+    "tarball": "https://registry.npmjs.org/nostics/-/nostics-1.2.0.tgz",
+    "fileCount": 26,
+    "integrity": "sha512-FGqEfhQjrvo1lL8KFifdTQiNwwQHJxC1jtYE1Rc54qF/jxONUNL+kC9gS1krX8Q65PgrQ5fCqH/I4NhWBvdSqg==",
+    "signatures": [
+      {
+        "sig": "MEQCIHSkb2vlTyihNl6lF5CR/++qcijAaPliH+nT/+kx8r9gAiBcDx/+jqR2KFdWQyluLpHNYoRKi77BYyDedeDiHMnIvw==",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "attestations": {
+      "url": "https://registry.npmjs.org/-/npm/v1/attestations/nostics@1.2.0",
+      "provenance": {
+        "predicateType": "https://slsa.dev/provenance/v1"
+      }
+    },
+    "unpackedSize": 92842
+  }
+}
